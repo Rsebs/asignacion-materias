@@ -1,0 +1,1 @@
+import{m as e}from"./app-1388f3ab.js";async function c(t,o,a={}){try{const r=await e({method:o,url:t,data:a});if(r.status===200)return r}catch(r){console.error("Error con la petición: ",r)}}export{c as g};
